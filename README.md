@@ -33,7 +33,7 @@ Provides a high-level view of critical KPIs to evaluate overall lending efficien
 - Includes a Loan Status Grid View for quick insights
 
 ### 📸 Screenshot:
-![Executive Dashboard](assets/executive_dashboard.png)
+![Executive Dashboard](assets/summary.jpg)
 
 ---
 
@@ -51,7 +51,7 @@ Visualizes lending trends and borrower demographics to uncover patterns and oppo
 - Home Ownership Analysis (Tree Map)
 
 ### 📸 Screenshot:
-![Trends Overview Dashboard](assets/trends_overview_dashboard.png)
+![Trends Overview Dashboard](assets/overview.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ Allows deep-dive analysis of loan records with flexible filters and detailed vie
 - Borrower metrics and real-time analysis
 
 ### 📸 Screenshot:
-![Detailed Insights Dashboard](assets/detailed_insights_dashboard.png)
+![Detailed Insights Dashboard](assets/details.jpg)
 
 ---
 
